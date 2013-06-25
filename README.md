@@ -1,0 +1,4 @@
+MinecraftMMO
+============
+
+Bukkit plugin
